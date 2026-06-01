@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /*.lnk$
+Disallow: /*.lnk
+
+# Sitemap Location
+Sitemap: /sitemap.xml
